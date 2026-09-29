@@ -27,18 +27,6 @@
   "ads": [],
   "sites": [
     {
-      "key": "东方色文化_py",
-      "name": "东方色文化",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/sjzkn1/sjzkn/main/py/js/%E6%88%90%E4%BA%BA/%E4%B8%9C%E6%96%B9%E8%89%B2%E6%96%87%E5%8C%96.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "group": "成人",
-      "timeout": 15
-    },
-    {
       "key": "抖阴_py",
       "name": "抖阴",
       "type": 3,
@@ -67,6 +55,18 @@
       "name": "九合一(免翻)",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/sjzkn1/sjzkn/main/py/js/%E6%88%90%E4%BA%BA/%E4%B9%9D%E5%90%88%E4%B8%80.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "group": "成人",
+      "timeout": 15
+    },
+    {
+      "key": "东方色文化_py",
+      "name": "东方色文化",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/sjzkn1/sjzkn/main/py/js/%E6%88%90%E4%BA%BA/%E4%B8%9C%E6%96%B9%E8%89%B2%E6%96%87%E5%8C%96.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
