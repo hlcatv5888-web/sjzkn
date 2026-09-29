@@ -158,7 +158,7 @@ class Spider(SpiderBase):
         # 品牌规范
         self.tgGroup = "https://t.me/yingshifx1"
         self.brandActor = "🎬 TG群: @yingshifx1"
-        self.brandDirector = "本影视源订阅官网：https://dyy.github1.de5.net"
+        self.brandDirector = "订阅官网：https://dyy.github1.de5.net"
         self._ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
         self.ctx = ssl.create_default_context()
