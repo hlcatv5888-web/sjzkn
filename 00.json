@@ -87,6 +87,18 @@
       "timeout": 15
     },
     {
+      "key": "h1uangguo1",
+      "name": "黄果短剧",
+      "type": 3,
+      "api": "https://little-waterfall-ea20.sjzkn886.workers.dev/huangguo.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "timeout": 15,
+      "group": "成人"
+    },
+    {
       "key": "臻美视界_py",
       "name": "臻美视界",
       "type": 3,
@@ -2304,6 +2316,17 @@
       "filterable": 0,
       "changeable": 0,
       "group": "短剧",
+      "timeout": 15
+    },
+    {
+      "key": "huangooudianj",
+      "name": "黄豆短剧",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/sjzkn1/sjzkn/main/py/%E9%BB%84%E8%B1%86%E7%9F%AD%E5%89%A7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
       "timeout": 15
     },
     {
